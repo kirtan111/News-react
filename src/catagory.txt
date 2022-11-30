@@ -1,0 +1,8 @@
+<Route path="/"><News pagesize={21} country="us" catagory="General" /></Route>
+<Route path="/Business"><News pagesize={21} country="us" catagory="Business" /></Route>
+<Route path="/Entertainment"><News pagesize={21} country="us" catagory="Entertainment" /></Route>
+<Route path="/General"><News pagesize={21} country="us" catagory="General" /></Route>
+<Route path="/Health"><News pagesize={21} country="us" catagory="Health" /></Route>
+<Route path="/Science"><News pagesize={21} country="us" catagory="Science" /></Route>
+<Route path="/Sports"><News pagesize={21} country="us" catagory="Sports" /></Route>
+<Route path="/Technology"><News pagesize={21} country="us" catagory="Technology" /></Route>
